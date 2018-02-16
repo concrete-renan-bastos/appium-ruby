@@ -1,0 +1,5 @@
+[caps]
+platformName = "iOS"
+deviceName = "iPhone X"
+platformVersion = "11.2"
+app = "./../build/ipa/WebViewApp.app"
