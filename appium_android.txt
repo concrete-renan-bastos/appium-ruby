@@ -1,7 +1,7 @@
 [caps]
 platformName = "Android"
-deviceName = "Moto X 2nd Gen"
-platformVersion = "6.0"
-appPackage = "com.android.calculator2"
-udid = "0010743457"
-appActivity = "com.android.calculator2.Calculator"
+deviceName = "ASUS_Z017DC"
+platformVersion = "7.0"
+appPackage = "com.google.android.apps.flexbox"
+udid = "10.202.2.57"
+appActivity = "com.google.android.flexbox.MainActivity"
